@@ -1,0 +1,3 @@
+¿los perros ladran?,si
+¿que idioma hablan en china?,mandarin
+¿cuantos planetas tiene el sistema solar?,9
